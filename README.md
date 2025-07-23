@@ -23,6 +23,42 @@ It also handles errors gracefully in case the file does not exist.
 
 ## 🚀 How to Run
 
-Place a `sample.txt` file in the same directory, then run:
+Place a `sample.txt` file in the same directory, then run
+
+
+#TASK2
+
+# 📝 File Handling in Python: Write, Append, and Read
+
+## 📌 Overview
+
+This Python program demonstrates how to perform **file operations** — writing, appending, and reading — using the built-in `open()` function. It interacts with a file named `output.txt`.
+
+---
+
+## 📂 Features
+
+✅ Write user input to `output.txt`  
+✅ Append additional input to the same file  
+✅ Read and display the complete content of the file  
+
+---
+
+## 🛠 How the Program Works
+
+1. **Write Mode (`'w'`)**
+   - Prompts the user to input text.
+   - Writes the input to `output.txt`, replacing any existing content.
+
+2. **Append Mode (`'a'`)**
+   - Prompts the user to input additional text.
+   - Appends the input to the same file without removing existing content.
+
+3. **Read Mode (`'r'`)**
+   - Reads and displays the entire content of the file after write and append operations.
+
+
+
+
 
 
